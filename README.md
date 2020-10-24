@@ -1,6 +1,5 @@
 # Group-108
-This text-based role-playing game is made on the purpose of the group project from COMP2113/ENGG1340.
-We are group 108. ##Hello world##
+My text-based role-playing game ## Hello world ##
 
 ######  "Ahhhhhhhh!....."
 It was like the last scream from a dead man, came along with an ominous feeling, the cold air had frightened your mind.
